@@ -1,6 +1,6 @@
 # Linux Conceitos
 
-## Criar Usuaário
+## Criar Usuário
 
 ## Manuais
 
