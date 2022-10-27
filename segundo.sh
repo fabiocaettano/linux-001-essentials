@@ -1,6 +1,7 @@
 #!/bin/bash
 # Autor: Fabio Almeida Caetano
 # Data: 25/10/2022
+# Nome: segundo.sh
 # Descrição: Este programa utiliza as variaveis internas do shell
 # Versão: 1.0
 # Licença: GPL v3
