@@ -1,7 +1,7 @@
 #!/bin/bash
 # Autor: Fabio Almeida Caetano
 # Data: 25/10/2022
-# Descrição: Variaveis de ambiente dentro de um script
+# Descrição: Usando variáveis
 # Versão: 1.0
 # Licença: GPL v3
 

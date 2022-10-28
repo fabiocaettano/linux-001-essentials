@@ -58,6 +58,11 @@ case $1 in
 	"stop")
 		stop
 	;;
+	"restart")
+		echo -e "\n Reiniando o sistema ..."
+		stop
+		start
+	;;
 	"status")
 		status
 	;;
